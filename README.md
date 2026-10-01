@@ -43,3 +43,8 @@ This repository contains my Java solutions to 5 algorithmic problems from Hacker
 *   **Approach:** Sort prices ascending. Buy toys cheapest-first until the budget runs out.
 *   **Time Complexity:** O(N log N) due to sorting.
 *   **Space Complexity:** O(1) auxiliary space.
+
+## Reflective Summary
+Through these 5 HackerRank problems in Java, I learned the importance of choosing the right algorithm. Binary Search taught me how dividing the search space in half reduces time complexity to O(log N). Insertion Sort showed me how to shift array elements in-place. For Mark and Toys, I learned that sorting first makes greedy algorithms much easier. This assignment improved my ability to analyze time and space complexity using Big-O notation.
+
+
